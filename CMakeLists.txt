@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(robotSample)
+project(robot_sample)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
